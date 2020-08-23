@@ -1,9 +1,0 @@
-{
-    "name": "anba33/simbledb",
-    "description": "From excell to mysql",
-    "type": "project",
-    "autoload": {
-        "psr-4": { "": "src/" }
-    }
-    "require": {}
-}
