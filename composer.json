@@ -1,0 +1,7 @@
+{
+    "name": "anba33/simpledb",
+    "description": "from excell to php",
+    "type": "project",
+	"autoload"
+    "require": {}
+}
