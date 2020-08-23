@@ -1,0 +1,6 @@
+{
+    "name": "anba33/simbledb",
+    "description": "From excell to mysql",
+    "type": "library",
+	"license": "MIT",
+}
