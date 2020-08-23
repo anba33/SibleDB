@@ -1,7 +1,11 @@
 {
-    "name": "anba33/simpledb",
-    "description": "from excell to php",
+    "name": "anba33/simbledb",
+    "description": "From excell to mysql",
     "type": "project",
-	"autoload"
+	{
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
     "require": {}
 }
